@@ -1,0 +1,23 @@
+{
+  "name": "advance-css-01",
+  "version": "1.0.0",
+  "description": "Natours Project",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afroza035/advance-css-01.git"
+  },
+  "author": "Afroza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afroza035/advance-css-01/issues"
+  },
+  "homepage": "https://github.com/afroza035/advance-css-01#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
